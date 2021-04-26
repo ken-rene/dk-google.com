@@ -1,2 +1,2 @@
 # dk-google.com
-google
+google.com
